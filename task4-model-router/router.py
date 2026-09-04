@@ -6,7 +6,6 @@ from fastapi.responses import JSONResponse
 
 from rate_limiter import RateLimiter
 
-
 # -----------------------------------------------------------
 # FastAPI application
 # -----------------------------------------------------------

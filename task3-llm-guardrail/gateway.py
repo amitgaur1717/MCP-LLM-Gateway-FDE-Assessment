@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 import httpx
 
-from redactor import redact_text
+from stream_redactor import redact_text
 
 
 app = FastAPI(title="LLM Streaming Guardrail")

@@ -14,6 +14,7 @@ The assessment covers:
 * JSON-RPC communication
 * Automated testing
 
+
 Each task is implemented independently with a focus on correctness, security, reliability, and testability.
 
 ---

@@ -5,7 +5,6 @@ import httpx
 from auth import get_role
 from policy import is_authorized
 
-
 app = FastAPI(title="Enterprise Claims MCP Security Gateway")
 
 DOWNSTREAM_URL = "http://localhost:8001/mcp"

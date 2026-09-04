@@ -2,7 +2,6 @@ from enum import Enum
 
 from pydantic import BaseModel, ConfigDict, Field
 
-
 class ClaimStatus(str, Enum):
     """
     Allowed lifecycle states for an enterprise insurance claim.
