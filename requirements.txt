@@ -1,0 +1,20 @@
+# Model Context Protocol
+mcp
+
+# Data validation and schemas
+pydantic
+
+# Backend API framework
+fastapi
+
+# ASGI server for FastAPI
+uvicorn
+
+# Async HTTP client for downstream services
+httpx
+
+# Testing framework
+pytest
+
+# Async support for pytest
+pytest-asyncio
